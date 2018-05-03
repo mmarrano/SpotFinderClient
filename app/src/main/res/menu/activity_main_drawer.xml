@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Login..." android:id="@+id/login_menu_item"/>
+    <item android:title="Map..." android:id="@+id/map_menu_item"/>
+    <item android:title="@string/not_checked_in" android:id="@+id/checkin_menu_item"/>
+    <item android:title="@string/get_model" android:id="@+id/get_model"/>
+    <item android:title="Test" android:id="@+id/test_API_call"/>
+
+</menu>

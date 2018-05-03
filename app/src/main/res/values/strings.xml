@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Spot_Finder_Client</string>
+    <string name="action_settings">Settings</string>
+    <string name="backend_screen">Backend Test</string>
+    <string name="create_new">Create new model…</string>
+    <string name="get_model">Get model…</string>
+    <string name="destroy_model">Destroy model</string>
+    <string name="update_model">Update model</string>
+    <string name="title_activity_backend_calls">BackendCalls</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="app_logo_string">App Logo</string>
+    <string name="user_name_header">Logged In As:</string>
+    <string name="not_checked_in">Spot Check In...</string>
+    <string name="checked_in">Spot Check Out...</string>
+</resources>
